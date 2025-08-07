@@ -115,6 +115,13 @@ aws configure
 sudo apt install python3-pandas python3-boto3 python3-xlsxwriter
 ```
 
+### Step 5: Open editor and putting python code 
+
+```bash
+vi download_and_process.py
+```
+(paste the Python code, press Esc, then type :wq to save and exit; make sure to set the correct S3 bucket and folder names)
+
 ### Step 5: Create virtual environment
 
 ```bash
