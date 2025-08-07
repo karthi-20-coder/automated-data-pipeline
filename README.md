@@ -79,8 +79,8 @@ The processed report is uploaded back to AWS S3.
 
 ## Steps:
 
-- 1. Creating EC2 Ubuntu instance with http and https security group
-- 2. Creating S3 bucket and two folders one is Raw_data and other one is Processed_data
+- Creating EC2 Ubuntu instance with http and https security group
+- Creating S3 bucket and two folders one is Raw_data and other one is Processed_data
 
 
 
