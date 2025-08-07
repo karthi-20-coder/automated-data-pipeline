@@ -23,6 +23,9 @@ This project automates a complete **ETL pipeline** using AWS and Python to clean
 
 ## 🖼️ Screenshots
 
+### Project Architecure
+![Block diagram](images/Architecture.png)
+
 ### VPC Dashboard
 ![VPC](images/vpc.png)
 
