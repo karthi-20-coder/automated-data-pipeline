@@ -115,7 +115,7 @@ aws configure
 sudo apt install python3-pandas python3-boto3 python3-xlsxwriter
 ```
 
-### Step 5: Open editor and putting python code 
+### Step 5: Open the editor and insert the Python code
 
 ```bash
 vi download_and_process.py
