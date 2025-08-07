@@ -108,6 +108,7 @@ aws --version
 ```bash
 aws configure
 ```
+(enter access key, secret key, region like ap-south-1, and output format like json)
 
 ### Step 4: Install Python Packages 
 
