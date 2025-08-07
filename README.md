@@ -44,9 +44,6 @@ This project automates a complete **ETL pipeline** using AWS and Python to clean
 ### Processed Data Folder
 ![Processed](images/s3_processed_data.png)
 
-### IAM Role Setup
-![IAM Role](images/roles.png)
-
 ### Terminal Session
 ![Backend](images/ec2_terminal_session.png)
 
