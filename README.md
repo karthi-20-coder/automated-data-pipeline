@@ -64,10 +64,10 @@ The CSV file is uploaded manually to an AWS S3 bucket.
 A Python script running on AWS EC2 fetches the CSV file from S3.
 The data is cleaned using Pandas (removing missing values, correcting data types).
 
-- Business insights are generated:
+Business insights are generated:
 
 - Top 10 most purchased items
-- Least purchased items
+- Top 10 least purchased items
 - Total revenue per item
 - Average spending per customer
 - Revenue per category
